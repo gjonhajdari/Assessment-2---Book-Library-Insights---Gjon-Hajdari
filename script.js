@@ -1,5 +1,3 @@
-const books = {};
-
 const getBooks = async (url) => {
 	try {
 		const res = await fetch(url);
