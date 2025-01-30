@@ -1,0 +1,37 @@
+[
+	{
+		"title": "The Great Journey",
+		"author": "Alice Walker",
+		"yearPublished": 1990,
+		"pages": 320,
+		"genres": ["Adventure", "Drama"]
+	},
+	{
+		"title": "Hidden Depths",
+		"author": "Bob Jenkins",
+		"yearPublished": 2005,
+		"pages": 280,
+		"genres": ["Mystery"]
+	},
+	{
+		"title": "Dreaming Code",
+		"author": "Cindy Li",
+		"yearPublished": 2018,
+		"pages": 400,
+		"genres": ["Technology", "Education"]
+	},
+	{
+		"title": "Eternal Sunshine",
+		"author": "Danielle Ray",
+		"yearPublished": 1975,
+		"pages": 200,
+		"genres": ["Romance", "Drama"]
+	},
+	{
+		"title": "Mythical Horizons",
+		"author": "Eli Carter",
+		"yearPublished": 1985,
+		"pages": 350,
+		"genres": ["Fantasy"]
+	}
+]
