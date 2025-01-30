@@ -30,7 +30,7 @@ const getBooks = async (url) => {
 	console.log(mappedBooks);
 
 	console.log("---------- Total Pages ----------");
-	const totalPages = books.reduce((acc, cur) => acc + cur.pages, 0);
+	const totalPages = books.reduce((acc, book) => acc + book.pages, 0);
 	console.log(totalPages);
 
 	console.log("---------- Drama Book ----------");
